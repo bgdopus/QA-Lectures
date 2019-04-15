@@ -3,7 +3,7 @@
 2. QA course 2 https://my.telerikacademy.com/Courses/Courses/Details/308
 3. QA course 3 https://my.telerikacademy.com/Courses/Courses/Details/308
 
-# QA softuni course#
+# QA softuni course
 https://softuni.bg/trainings/2131/qa-fundamentals-september-2018#lesson-9288
 
 1. Intro - https://youtu.be/zr3LRhzLt4w
@@ -16,7 +16,7 @@ https://softuni.bg/trainings/2131/qa-fundamentals-september-2018#lesson-9288
 8. TEST AUTOMATION INTRODUCTION. SELENIUM https://youtu.be/FeWoI7B3lVo
 9. EXAM PREPARATION https://youtu.be/c1h5ECAJZn8
 
-# Домашни от софтуни курса:
+# Домашни от софтуни курса
 2. упражнение: https://drive.google.com/viewerng/viewer?url=https://softuni.bg/downloads/svn/qa-fundamentals/March-2019/01.%20Introduction-to-Software-Development-and-Testing/Homework%201.docx&pid=explorer&efh=false&a=v&chrome=false&embedded=true
 3. домашно: https://drive.google.com/viewerng/viewer?url=https://softuni.bg/downloads/svn/qa-fundamentals/March-2019/02.%20Test-Cases-Test-Scenarios-Test-Execution/Homerwork2.docx&pid=explorer&efh=false&a=v&chrome=false&embedded=true
 3. тест кейсове: https://drive.google.com/viewerng/viewer?url=https://softuni.bg/downloads/svn/qa-fundamentals/March-2019/02.%20Test-Cases-Test-Scenarios-Test-Execution/03.QA-Fundamentals-TEST%20CASES,%20TEST%20SCENARIOS,%20TEST%20EXECUTION..docx&pid=explorer&efh=false&a=v&chrome=false&embedded=true
@@ -36,7 +36,7 @@ https://softuni.bg/trainings/2131/qa-fundamentals-september-2018#lesson-9288
 * https://www.allitebooks.in/performance-testing-jmeter-2-9/ - същото като горното
 
 
-# Compile .net in vs code ubunto:
+# Compile .net in vs code ubunto
 * https://www.youtube.com/watch?v=WeTesTCzep0
 
 
