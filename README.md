@@ -28,8 +28,8 @@ https://softuni.bg/trainings/2131/qa-fundamentals-september-2018#lesson-9288
 * https://sqlzoo.net/
 * https://www.guru99.com/software-testing.html - различни теми
 * https://www.guru99.com/selenium-tutorial.html
-#
-#
+
+
 # Книги:
 * https://www.allitebooks.in/practical-web-penetration-testing/
 * https://www.allitebooks.in/performance-testing-jmeter-second-edition/ -- това трее да е много добро, ама за по-натам
