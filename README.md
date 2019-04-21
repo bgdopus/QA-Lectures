@@ -8,11 +8,11 @@ https://softuni.bg/trainings/2131/qa-fundamentals-september-2018#lesson-9288
 
 1. Intro - https://youtu.be/zr3LRhzLt4w
 2. INTRODUCTION TO SOFTWARE DEVELOPMENT AND TESTING https://youtu.be/cgRTW66WQZk
-3. TEST CASES, TEST SCENARIOS, TEST EXECUTION. https://youtu.be/UrSNboRA2Qc
-4. TESTING TECHNIQUES https://youtu.be/OMlsGLo9ZIM
-5. BUG TRACKING AND VERSION CONTROL SYSTEMS https://youtu.be/3cLeC7sNfNs
-6. SOFTWARE DEVELOPMENT AND TESTING LIFECYCLE https://youtu.be/cWnAOe1pIv8
-7. TEST LEVELS AND TEST TYPES https://youtu.be/D_PwFNrjsGA
+3. TEST CASES, TEST SCENARIOS, TEST EXECUTION. https://youtu.be/hwsKUbqqIhM
+4. Test levels, test types https://youtu.be/nNHhQEillaM
+5. TESTING TECHNIQUES https://youtu.be/4DGg93cqcNs
+6. BUG TRACKING AND VERSION CONTROL SYSTEMS https://youtu.be/T5by7OiBf5k
+7. SOFTWARE DEVELOPMENT AND TESTING LIFECYCLE https://youtu.be/uExU9vP7omU
 8. TEST AUTOMATION INTRODUCTION. SELENIUM https://youtu.be/FeWoI7B3lVo
 9. EXAM PREPARATION https://youtu.be/c1h5ECAJZn8
 
@@ -21,7 +21,10 @@ https://softuni.bg/trainings/2131/qa-fundamentals-september-2018#lesson-9288
 3. домашно: https://drive.google.com/viewerng/viewer?url=https://softuni.bg/downloads/svn/qa-fundamentals/March-2019/02.%20Test-Cases-Test-Scenarios-Test-Execution/Homerwork2.docx&pid=explorer&efh=false&a=v&chrome=false&embedded=true
 3. тест кейсове: https://drive.google.com/viewerng/viewer?url=https://softuni.bg/downloads/svn/qa-fundamentals/March-2019/02.%20Test-Cases-Test-Scenarios-Test-Execution/03.QA-Fundamentals-TEST%20CASES,%20TEST%20SCENARIOS,%20TEST%20EXECUTION..docx&pid=explorer&efh=false&a=v&chrome=false&embedded=true
 3. шаблон: https://drive.google.com/viewerng/viewer?url=https://softuni.bg/downloads/svn/qa-fundamentals/March-2019/02.%20Test-Cases-Test-Scenarios-Test-Execution/03.%20Test-Cases-Template.xlsx&pid=explorer&efh=false&a=v&chrome=false&embedded=true
-
+3. Test managment system https://www.gurock.com/testrail
+6. Homework - https://drive.google.com/viewerng/viewer?url=https://softuni.bg/downloads/svn/qa-fundamentals/March-2019/05.Bug-Tracking-and-Version-Control-Systems/HOMEWORK5.docx&pid=explorer&efh=false&a=v&chrome=false&embedded=true
+6. Bug template - https://drive.google.com/viewerng/viewer?url=https://softuni.bg/downloads/svn/qa-fundamentals/March-2019/05.Bug-Tracking-and-Version-Control-Systems/BUG%20template.xlsx&pid=explorer&efh=false&a=v&chrome=false&embedded=true
+6. Bug example https://drive.google.com/viewerng/viewer?url=https://softuni.bg/downloads/svn/qa-fundamentals/March-2019/05.Bug-Tracking-and-Version-Control-Systems/BUG%20example.xlsx&pid=explorer&efh=false&a=v&chrome=false&embedded=true
 
 # Допълнително четиво
 * https://artoftesting.com/
