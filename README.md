@@ -45,3 +45,15 @@ https://softuni.bg/trainings/2131/qa-fundamentals-september-2018#lesson-9288
 
 # Теми за уточнение:
 * SpecFlow
+
+# Software Development Fundamentals:
+* https://mva.microsoft.com/en-US/training-courses/software-development-fundamentals-8248?l=xiawPHKy_5104984382
+
+# C# Fundamentals for Absolute Beginners
+* https://mva.microsoft.com/en-US/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949
+
+# JavaScript Fundamentals for Absolute Beginners
+* https://mva.microsoft.com/en-US/training-courses/javascript-fundamentals-for-absolute-beginners-14194?l=L4YIbtUxE_900115881
+
+# HTML5 & CSS3 Fundamentals
+* https://mva.microsoft.com/en-US/training-courses/html5-css3-fundamentals-development-for-absolute-beginners-14207?l=Y4COscFfB_7500115888
