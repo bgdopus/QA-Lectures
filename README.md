@@ -38,6 +38,8 @@ https://softuni.bg/trainings/2131/qa-fundamentals-september-2018#lesson-9288
 * https://www.allitebooks.in/performance-testing-jmeter-second-edition/ -- това трее да е много добро, ама за по-натам
 * https://www.allitebooks.in/performance-testing-jmeter-2-9/ - същото като горното
 
+# Automation Selenium
+* https://in.thecamp.me/collection/Selenium-automation-with-C-23/6qZhL%2B75
 
 # Compile .net in vs code ubunto
 * https://www.youtube.com/watch?v=WeTesTCzep0
